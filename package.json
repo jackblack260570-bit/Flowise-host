@@ -1,0 +1,11 @@
+{
+  "name": "flowise-host",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "flowise start"
+  },
+  "dependencies": {
+    "flowise": "1.3.7"
+  }
+}
